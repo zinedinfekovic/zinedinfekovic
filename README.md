@@ -24,7 +24,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zinedinfekovic&label=Profile%20Views&color=3398de&style=flat-square" alt="Profile Views" />
-</div>
   <img src="https://img.shields.io/github/followers/zinedinfekovic?label=Followers&style=flat-square&color=3398de" alt="Followers" />
   <img src="https://img.shields.io/github/stars/zinedinfekovic?style=flat-square&color=3398de" alt="Stars" />
 </div>
