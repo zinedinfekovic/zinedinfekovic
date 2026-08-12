@@ -5,11 +5,11 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React.js+%26+Modern+JavaScript;Aspiring+Full-Stack+Engineer;React+Native+%26+Mobile+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3398de&center=true&vCenter=true&width=600&lines=Frontend+Web+Developer;React.js+%26+Modern+JavaScript;Aspiring+Full-Stack+Developer;React+Native+%26+Mobile+Apps" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Education-General_Gymnasium-5a189a?style=for-the-badge&logo=bookstack&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Education-General_Gymnasium-3398de?style=for-the-badge&logo=bookstack&logoColor=white" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-Serbia-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </div>
 <br>
