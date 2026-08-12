@@ -44,7 +44,7 @@ Right now, I'm actively expanding my toolkit into **Full-Stack Development** by 
 <div align="center">
   <p><strong>Languages</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" alt="Languages" />
   </a>
   
   <p><strong>Frontend</strong></p>
