@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3398de&height=250&section=header&text=Zinedin%20Fekovic&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20React%20%26%20JavaScript&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
-</div> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3398de&height=250&section=header&text=Zinedin%20Fekovic&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20React%20and%20JavaScript&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+</div>
 
 
 
