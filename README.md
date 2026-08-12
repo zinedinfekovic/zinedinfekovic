@@ -1,26 +1,27 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=250&section=header&text=Zinedin%20Fekovic&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20React%20%26%20JavaScript&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3398de&height=250&section=header&text=Zinedin%20Fekovic&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+</div>
 
-  <br />
-  <h3>Frontend Web Developer</h3>
-  <p>
-    <img src="https://img.shields.io/badge/FOCUS-FRONTEND%20%26%20REACT-5a189a?style=for-the-badge&labelColor=333333" alt="Focus" />
-    <img src="https://img.shields.io/badge/LOCATION-SERBIA-5a189a?style=for-the-badge&labelColor=333333" alt="Location" />
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/zinedinfekovic" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-5a189a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=333333" alt="LinkedIn" />
-    </a>
-    <a href="mailto:zinedinfekovicdev@gmail.com">
-      <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-5a189a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333" alt="Email" />
-    </a>
-    <a href="https://github.com/zinedinfekovic">
-      <img src="https://img.shields.io/badge/GITHUB-FOLLOW-5a189a?style=for-the-badge&logo=github&logoColor=white&labelColor=333333" alt="GitHub" />
-    </a>
-  </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=zinedinfekovic&color=5a189a&style=flat-square" alt="Profile Views" />
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Enterprise+Software+Engineer;Full-Stack+Product+Development;AI+%2F+ML+Solutions+Architect;Scalable+System+Design" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Education-Computer_Science-5a189a?style=for-the-badge&logo=bookstack&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Serbia-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/zinedinfekovic"><img src="https://img.shields.io/badge/Portfolio-Explore_Work-3c096c?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/zinedinfekovic/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3c096c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:zinedinfekovicdev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-3c096c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/zinedinfekovic"><img src="https://img.shields.io/badge/GitHub-Follow-3c096c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zinedinfekovic&label=Profile%20Views&color=9d4edd&style=flat-square" alt="Profile Views" />
 </div>
   <img src="https://img.shields.io/github/followers/zinedinfekovic?label=Followers&style=flat-square&color=5a189a" alt="Followers" />
   <img src="https://img.shields.io/github/stars/zinedinfekovic?style=flat-square&color=3c096c" alt="Stars" />
