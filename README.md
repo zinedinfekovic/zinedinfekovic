@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3398de&height=250&section=header&text=Zinedin%20Fekovic&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20React%20%26%20JavaScript&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3398de&height=250&section=header&text=Zinedin%20Feković&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Frontend%20Developer%20%7C%20React%20%26%20JavaScript&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+</div> promeni ovd emkani software engineer 
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Enterprise+Software+Engineer;Full-Stack+Product+Development;AI+%2F+ML+Solutions+Architect;Scalable+System+Design" alt="Typing SVG" />
