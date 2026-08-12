@@ -10,23 +10,23 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Education-General_Gymnasium-3398de?style=for-the-badge&logo=bookstack&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Serbia-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Location-Serbia-3398de?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </div>
 <br>
 
 <div align="center">
-  <a href="https://github.com/zinedinfekovic"><img src="https://img.shields.io/badge/Portfolio-Soon-3c096c?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/zinedinfekovic/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3c096c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:zinedinfekovicdev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-3c096c?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/zinedinfekovic"><img src="https://img.shields.io/badge/GitHub-Follow-3c096c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/zinedinfekovic"><img src="https://img.shields.io/badge/Portfolio-Soon-3398de?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/zinedinfekovic/"><img src="https://img.shields.io/badge/LinkedIn-Connect-3398de?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:zinedinfekovicdev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-3398de?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/zinedinfekovic"><img src="https://img.shields.io/badge/GitHub-Follow-3398de?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zinedinfekovic&label=Profile%20Views&color=9d4edd&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=zinedinfekovic&label=Profile%20Views&color=3398de&style=flat-square" alt="Profile Views" />
 </div>
-  <img src="https://img.shields.io/github/followers/zinedinfekovic?label=Followers&style=flat-square&color=5a189a" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/zinedinfekovic?style=flat-square&color=3c096c" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/zinedinfekovic?label=Followers&style=flat-square&color=3398de" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/zinedinfekovic?style=flat-square&color=3398de" alt="Stars" />
 </div>
 
 ---
