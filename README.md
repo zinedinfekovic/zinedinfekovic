@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5a189a&height=250&section=header&text=Zinedin%20Fekovic&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0284c7&height=250&section=header&text=Zinedin%20Fekovic&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%20Enthusiast&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -30,14 +30,13 @@
 
 ### 👨‍💻 About Me
 
-Passionate Software Engineer on a mission to build scalable, high-performance digital products. With a deep focus on **clean component architecture** and **modern full-stack engineering**, I bridge the gap between complex server-side logic and slick, intuitive client-side UI. 
+Motivated **Frontend Developer** with two years of hands-on experience crafting responsive, high-performance web applications. I focus on writing clean UI code that looks slick and works flawlessly on mobile screens.
 
-My engineering philosophy centers around robust system design, leveraging the modern JavaScript ecosystem (React.js, Node.js) while integrating emerging **AI/ML capabilities** to solve real-world problems. I prioritize writing scalable code that balances raw performance with enterprise-grade security and maintainability.
+Right now, I'm actively expanding my toolkit into **Full-Stack Development** by diving deep into **Node.js, MongoDB, and React Native**. I love building interactive web interfaces, solving complex UI challenges, and continuously leveling up my engineering skills.
 
-- ⚙️ **Focus:** Full-Stack Development, Clean Architecture, Product Engineering
-- 🧠 **Interests:** Applied AI/ML, Distributed Systems, Interactive Web Applications
-- 🔭 **Open To:** Senior Full-Stack roles, Open Source collaborations, and challenging engineering contracts.
-
+- ⚙️ **Focus:** Frontend Development, Responsive UI Design, Clean Component Architecture
+- 🧠 **Learning & Exploring:** Node.js, MongoDB, React Native, Full-Stack Applications
+- 🔭 **Open To:** Frontend / Junior Full-Stack Developer roles, commercial web projects, and open-source collaborations.
 ---
 
 ### 🛠️ Tech Stack
@@ -45,25 +44,24 @@ My engineering philosophy centers around robust system design, leveraging the mo
 <div align="center">
   <p><strong>Languages</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,bash&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" alt="Languages" />
   </a>
   
   <p><strong>Frontend</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
   </a>
   
-  <p><strong>Backend & Databases</strong></p>
+  <p><strong>Backend & Databases (Currently Learning)</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,redis,graphql&theme=dark" alt="Backend and Databases" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and Databases" />
   </a>
   
-  <p><strong>Cloud, DevOps & Tooling</strong></p>
+  <p><strong>Tooling & Deployment</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,vercel&theme=dark" alt="Cloud and DevOps" />
+    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Tooling" />
   </a>
 </div>
-
 ---
 
 ### 🤖 AI / ML Expertise
