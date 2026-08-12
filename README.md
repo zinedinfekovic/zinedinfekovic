@@ -67,43 +67,38 @@ Right now, I'm actively expanding my toolkit into **Full-Stack Development** by 
 ### 🚀 Featured Projects
 
 <details>
-<summary><b>🟣 Project Alpha: Enterprise E-Commerce Engine</b></summary>
+<summary><b>🔵 Interactive Web Application (In Development)</b></summary>
 <br>
 
-A high-performance headless e-commerce architecture designed to handle thousands of concurrent users with sub-second response times.
+A modern web application built to showcase responsive UI design, clean state management, and seamless mobile component interactions.
 
 | Metric | Detail |
 | :--- | :--- |
-| **Stack** | React.js, Node.js, Express, MongoDB, Redis |
-| **Scale** | Microservices architecture, deployed on AWS |
-| **Performance** | Sub 100ms API response time, 99.9% Uptime |
-| **Security** | JWT Authentication, Rate Limiting, Data Encryption |
-| **Impact** | Increased transaction throughput by 300% |
-| **Repository** | [View Source](https://github.com/zinedinfekovic) |
+| **Stack** | React.js, JavaScript, Tailwind CSS |
+| **Focus** | Mobile-First UI, Responsive Design, State Management |
+| **Status** | Active Development 🚧 |
+| **Repository** | [View Profile](https://github.com/zinedinfekovic) |
 
-*Professional Explanation:* Engineered the core state management and API bridging logic to ensure seamless data flow between the microservices and the React client. Implemented intelligent caching strategies to reduce database load during peak traffic events.
+*Overview:* Currently building interactive client-side web components and focusing on writing clean, modular React code.
 
 </details>
 
 <details>
-<summary><b>🟣 Project Beta: AI-Powered Data Analytics Dashboard</b></summary>
+<summary><b>🔵 Full-Stack Learning Project (Coming Soon)</b></summary>
 <br>
 
-A real-time data visualization platform that integrates machine learning models to provide predictive insights and anomaly detection.
+An upcoming full-stack application designed to connect a dynamic React frontend with a Node.js & MongoDB backend.
 
 | Metric | Detail |
 | :--- | :--- |
-| **Stack** | Next.js, TypeScript, Tailwind CSS, Python (FastAPI) |
-| **Scale** | Handles streaming data sockets |
-| **Performance** | Optimized client-side rendering with WebGL |
-| **Security** | OAuth 2.0, Role-Based Access Control |
-| **Impact** | Reduced manual data analysis time by 40 hours/week |
-| **Repository** | [View Source](https://github.com/zinedinfekovic) |
+| **Stack** | React.js, Node.js, Express, MongoDB |
+| **Focus** | RESTful APIs, Database CRUD Operations, Authentication |
+| **Status** | Planning & Architecture Phase 🛠️ |
+| **Repository** | [View Profile](https://github.com/zinedinfekovic) |
 
-*Professional Explanation:* Built complex interactive data grids and charting configurations from scratch. Leveraged modern CSS and component architecture to ensure the heavy UI executed smoothly across all mobile and desktop environments.
+*Overview:* Preparing to deploy my first end-to-end full-stack app as part of my transition into full-stack development.
 
 </details>
-
 ---
 
 ### 💼 Experience
