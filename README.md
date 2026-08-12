@@ -120,7 +120,6 @@ Developing high-performance commercial websites and interactive web applications
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinedinfekovic&theme=tokyonight&hide_border=true&title_color=9D4EDD&text_color=a9b1d6&icon_color=7b2cbf&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinedinfekovic&theme=tokyonight&hide_border=true&title_color=9D4EDD&text_color=a9b1d6&icon_color=7b2cbf&background=0D1117" alt="GitHub Streak" />
 </div>
 
