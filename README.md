@@ -101,7 +101,7 @@ An upcoming full-stack application designed to connect a dynamic React frontend 
 *Overview:* Preparing to deploy my first end-to-end full-stack app as part of my transition into full-stack development.
 
 </details>
----
+
 ### 💼 Experience
 
 **Frontend Web Developer** @ *ElegantCode*  
