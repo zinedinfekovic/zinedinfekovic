@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Education-Computer_Science-5a189a?style=for-the-badge&logo=bookstack&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Education-General%20Gymnasium-5a189a?style=for-the-badge&logo=bookstack&logoColor=white" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-Serbia-5a189a?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
 </div>
 <br>
