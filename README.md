@@ -39,14 +39,13 @@ Right now, I'm actively expanding my toolkit into **Full-Stack Development** by 
 - ⚙️ **Focus:** Frontend Development, Responsive UI Design, Clean Component Architecture
 - 🧠 **Learning & Exploring:** Node.js, MongoDB, React Native, Full-Stack Applications
 - 🔭 **Open To:** Frontend / Junior Full-Stack Developer roles, commercial web projects, and open-source collaborations.
----
 
 ### 🛠️ Tech Stack
 
 <div align="center">
   <p><strong>Languages</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" alt="Languages" />
   </a>
   
   <p><strong>Frontend</strong></p>
@@ -123,7 +122,6 @@ Developing high-performance commercial websites and interactive web applications
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zinedinfekovic&theme=tokyonight&hide_border=true&title_color=9D4EDD&text_color=a9b1d6&icon_color=7b2cbf&background=0D1117" alt="GitHub Streak" />
 </div>
 
----
 
 
 ### 📈 Contribution Activity
@@ -132,39 +130,9 @@ Developing high-performance commercial websites and interactive web applications
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zinedinfekovic&bg_color=0D1117&color=9D4EDD&line=7b2cbf&point=ffffff&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
----
 
 ### 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/zinedinfekovic/zinedinfekovic/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
 </div>
-
----
-
-### 🎯 Current Focus
-
-```yaml
-profile:
-  developer: "Zinedin Fekovic"
-  status: "Active"
-  current_focus:
-    learning:
-      - "Advanced Node.js & Microservices"
-      - "MongoDB Performance Tuning"
-      - "React Native for Mobile Apps"
-    building:
-      - "Scalable Full-Stack Web Applications"
-      - "Interactive UI Configurators"
-    open_to:
-      - "Enterprise Engineering Roles"
-      - "Open Source Collaboration"
-      - "Tech Mentorship & Networking"
-
-  <img src="https://img.shields.io/github/followers/zinedinfekovic?label=Followers&style=flat-square&color=5a189a" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/zinedinfekovic?style=flat-square&color=3c096c" alt="Stars" />
-</div>
-
-      - "Enterprise Engineering Roles"
-      - "Open Source Collaboration"
-      - "Tech Mentorship & Networking"
